@@ -6,12 +6,12 @@ public class lab2dot2class {
 
 	/* 
 	 * Computer Science 1 Spring
-	 * 2-2 Sum the digits in an integer
+	 * 2-2 Sum the digits in an integer 
 	 * 
 	 * This program first asks the user to input a three-digit number. The program then separates the individual digits of the user�s number. 
 	 * Next, the program then finds the sum of the combined individual values and displays this value as the output. 
 	 * Finally, the program converts the initial three-digit value inputted by the user into its binary, hexadecimal, and octal equivalents.
-	 *
+	 *2
 	 */
 
 	public static void main(String[] args) {
