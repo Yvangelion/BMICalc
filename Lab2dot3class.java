@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab2dot3class {
 
 	/* 
-	 * Computer Science 1 Spring
+	 * Computer Science 1 Spring update
 	 * 2-3 Calculating the Body Mass Index (BMI)
 	 *
 	 * This program will calculate the Body Mass Index(BMI) of a person based on
